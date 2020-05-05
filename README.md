@@ -6,3 +6,5 @@ Now making changes on Gedit from terminal
 
 
 Testing updating terminal version after changing online
+
+Now we are making changes from emacs! Very exciting
